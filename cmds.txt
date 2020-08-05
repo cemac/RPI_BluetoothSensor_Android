@@ -1,0 +1,9 @@
+cordova platform add android
+cordova build
+
+
+cordova run android
+
+cordova plugin add cordova-plugin-dialogs
+
+cordova plugin add cordova-plugin-file
