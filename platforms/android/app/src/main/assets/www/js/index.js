@@ -214,6 +214,7 @@ var app = {
 
     rdata = rdata.split("_");
     //alert(rdata)
+    console.log(rdata)
     "GPS Latitude Longitude Altitude NSat PM1 PM2.5 PM10"
       .split(" ")
       .forEach((d, i) => {
